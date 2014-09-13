@@ -8,3 +8,6 @@
 1. Navigate to application
 2. `ruby app.rb`
 3. Navigate to http://localhost:4567 in your browser
+
+## Example
+!()[https://github.com/dennismonsewicz/backbone-wreqr-events-example/public/img/demo.gif]
